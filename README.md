@@ -4,3 +4,4 @@ J27公司linux組態專案
 hosts
 ens160.nmconnection
 -------------------
+負責人:JUDY
